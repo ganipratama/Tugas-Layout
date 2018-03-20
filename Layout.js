@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
     },
     box2:{
       flex: 3,
-      backgroundColor: '#008B8B',
+      backgroundColor: '#808080',
       flexDirection : 'row',
       justifyContent: 'center',
       alignItems: 'center',
